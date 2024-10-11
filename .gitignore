@@ -1,0 +1,3 @@
+.terraform/
+fonction/function-source.zip
+terraform.tfstate/
